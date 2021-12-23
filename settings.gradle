@@ -1,4 +1,5 @@
 rootProject.name = 'multiply'
 include 'module-one'
 include 'module-two'
+include 'common'
 
